@@ -24,3 +24,8 @@ p {
 li {
   color: forestgreen;
 }
+img {
+  margin:auto;
+  width: 20 px;
+  display: block;
+}

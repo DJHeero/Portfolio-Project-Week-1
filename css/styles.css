@@ -29,3 +29,7 @@ img {
   width: 20 px;
   display: block;
 }
+
+.important{
+  color: maroon;
+}
